@@ -1,4 +1,4 @@
-baseurl = "https://nalbertg.github.com/"
+baseurl = "https://nalbertg.github.io/"
 languageCode = "en-us"
 title = "Strata"
 theme = "hugo-strata-theme"
