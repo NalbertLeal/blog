@@ -1,6 +1,6 @@
 baseurl = "https://nalbertg.github.io/"
 languageCode = "en-us"
-title = "Strata"
+title = "Nalbert Leal"
 theme = "hugo-strata-theme"
 disqusShortname = "spf13"
 # Enable Google Analytics by inserting your tracking code
@@ -15,7 +15,7 @@ paginate = 10
 	description = "My personal blog. What i am thinking, learning, testing and developing are the focus here."
 
 	# Format dates with Go's time formatting
-	date_format = "02-01-2006"
+	date_format = "01-02-2006"
 
 	# Add read time estimates in the format "X min read"
 	show_read_time = true
@@ -48,8 +48,8 @@ paginate = 10
 
 	[params.about]
 		hide  = false
-		title = "Ipsum lorem dolor aliquam ante commodo magna sed accumsan arcu neque."
-		content = "Accumsan orci faucibus id eu lorem semper. Eu ac iaculis ac nunc nisi lorem vulputate lorem neque cubilia ac in adipiscing in curae lobortis tortor primis integer massa adipiscing id nisi accumsan pellentesque commodo blandit enim arcu non at amet id arcu magna. Accumsan orci faucibus id eu lorem semper nunc nisi lorem vulputate lorem neque cubilia."
+		title = "Bio."
+		content = "Hi, my name is Nalbert Gabriel Melo Leal. I'm 20 years old, live in Brazil and study software engineering at Federal Univesity of Rio Grande do Norte. I started to program when I was just 10 years old with javascript and since there I have every day tried to be a bether developer. Today i like to code backend with python, javascript and golang but usualy I try to learn some new and weird language."
 
 
 	[params.portfolio]
@@ -59,40 +59,10 @@ paginate = 10
 		# The images and thumbnails are stored under static/images
 		# Create and change subfolders as you like
 		[[params.portfolio.gallery]]
-			image = "fulls/01.jpg"
-			thumb = "thumbs/01.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
-
-		[[params.portfolio.gallery]]
-			image = "fulls/02.jpg"
-			thumb = "thumbs/02.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
-
-		[[params.portfolio.gallery]]
-			image = "fulls/03.jpg"
-			thumb = "thumbs/03.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
-
-		[[params.portfolio.gallery]]
-			image = "fulls/04.jpg"
-			thumb = "thumbs/04.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
-
-		[[params.portfolio.gallery]]
-			image = "fulls/05.jpg"
-			thumb = "thumbs/05.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
-
-		[[params.portfolio.gallery]]
-			image = "fulls/06.jpg"
-			thumb = "thumbs/06.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+			image = "portfolio/18580813_747356378722668_8714861240586862592_n.jpg"
+			thumb = "portfolio/18580813_747356378722668_8714861240586862592_n.jpg"
+			title = "Coffe + long nigth"
+			description = "A big cup of coffe to don't sleep before finish the work."
 
 	[params.recentposts]
 		hide  = false
@@ -101,7 +71,7 @@ paginate = 10
 	[params.contact]
 		hide  = false
 		title = "Get In Touch"
-		content = "Accumsan pellentesque commodo blandit enim arcu non at amet id arcu magna. Accumsan orci faucibus id eu lorem semper nunc nisi lorem vulputate lorem neque lorem ipsum dolor."
+		content = "For this first moment the contact form below doesn't work. So if you want to contact me, send the mesage to the email on the left side the form, it's the best option."
 
 		# This can be exact coordinates or a searchable address in google maps
 		gmaps_address = "-5.8830000, -35.2090000"
