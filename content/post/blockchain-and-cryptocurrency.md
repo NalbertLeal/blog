@@ -1,9 +1,9 @@
 +++
 banner = "banners/placeholder.png"
-categories = ["UFRN", "software archtecture"]
-date = "2017-12-03T16:53:00-03:00"
+categories = ["UFRN", "blockchain", "cryptocurrency"]
+date = "2017-12-07T16:53:00-03:00"
 menu = ""
-tags = ["web", "web2", "UFRN", "software archtecture", "translated from portuguese"]
+tags = ["UFRN", "bitcoin", "ethereum", "blockchain", "cryptocurrency", "implementation", "english"]
 title = "Blockchain and cryptocurrency"
 +++
 
